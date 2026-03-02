@@ -167,6 +167,24 @@ See the detailed analysis documents:
 3. Add tests for new features
 4. Submit a pull request
 
+## 💝 Support This Project
+
+This project is **completely free and open-source** under the MIT License. If you find it helpful and would like to support its continued development, you're welcome to make a voluntary contribution. Your support helps maintain and improve the codebase, create more educational resources, and develop new features.
+
+### 🤲 How You Can Help:
+
+- ⭐ **Star the repository** on GitHub
+- 🗣️ **Share with colleagues** who might find it useful
+- 📝 **Contribute** code improvements or documentation
+- 🐛 **Report issues** or suggest features
+
+### 💰 Optional Financial Support:
+If you'd like to provide financial support, it's deeply appreciated but completely optional. Every contribution helps keep open-source projects like this alive and thriving.
+
+*Note: Payment QR code information is available in the [SUPPORT.md](SUPPORT.md) file.*
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
