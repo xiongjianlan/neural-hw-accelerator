@@ -169,19 +169,27 @@ See the detailed analysis documents:
 
 ## 💝 Support This Project
 
-This project is **completely free and open-source** under the MIT License. If you find it helpful and would like to support its continued development, you're welcome to make a voluntary contribution. Your support helps maintain and improve the codebase, create more educational resources, and develop new features.
+### 支持这个开源项目 ❤️
 
-### 🤲 How You Can Help:
+这个项目是**完全免费和开源的**，采用MIT许可证。如果你觉得这个项目有帮助，并愿意支持它的持续发展，欢迎通过以下方式支持：
 
-- ⭐ **Star the repository** on GitHub
-- 🗣️ **Share with colleagues** who might find it useful
-- 📝 **Contribute** code improvements or documentation
-- 🐛 **Report issues** or suggest features
+#### 🤝 如何支持：
 
-### 💰 Optional Financial Support:
-If you'd like to provide financial support, it's deeply appreciated but completely optional. Every contribution helps keep open-source projects like this alive and thriving.
+- ⭐ **给仓库点星** - 这是最好的支持方式！
+- 🗣️ **分享项目** - 让更多人知道这个开源硬件项目
+- 📝 **贡献代码** - 提交改进、修复或新功能
+- 🐛 **报告问题** - 帮助项目变得更好
 
-*Note: Payment QR code information is available in the [SUPPORT.md](SUPPORT.md) file.*
+#### 💰 自愿的经济支持：
+如果你愿意提供经济支持，我们将深表感谢（但完全自愿）。每一份支持都有助于：
+- 🛠️ 维护和优化代码库
+- 📚 创建更多教程和教育资源
+- 🔬 开发新功能和性能优化
+- 🆓 保持项目的完全免费和开源
+
+**详细信息请查看 [SUPPORT.md](SUPPORT.md) 文件。**
+
+*感谢你的每一份支持与鼓励！*
 
 ---
 

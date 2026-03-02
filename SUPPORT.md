@@ -34,9 +34,33 @@ If you'd like to provide financial support, you can do so via:
 
 **Payment QR Code**: 
 
-![Support QR Code](payment_qr_placeholder.png)
+### 支持这个开源项目 ❤️
 
-*Note: To add your actual payment QR code, replace the `payment_qr_placeholder.png` image with your QR code image. Supported formats: PNG, JPG, JPEG.*
+感谢你对神经网络硬件加速器项目的关注！如果你觉得这个项目有帮助，并愿意支持它的持续发展，欢迎通过以下方式支持：
+
+#### 💰 扫码支持（完全自愿）
+
+![支持二维码 - 微信/支付宝](payment_qr_original.png)
+
+*扫码即可支持，金额不限，感谢你的每一份心意！*
+
+#### 🤝 其他支持方式
+
+如果你不方便扫码，也可以通过以下方式支持：
+- ⭐ **给仓库点星** - 这是最好的支持！
+- 🗣️ **分享项目** - 让更多人知道这个开源项目
+- 📝 **贡献代码** - 提交改进或修复
+- 🐛 **报告问题** - 帮助项目变得更好
+
+#### 🙏 感谢语
+
+每一份支持，无论是经济上的还是精神上的，都让我深感温暖。你的支持将直接用于：
+- 🛠️ 维护和优化代码库
+- 📚 创建更多教程和示例
+- 🔬 开发新功能和性能优化
+- 🆓 保持项目的完全免费和开源
+
+**衷心感谢你的支持与鼓励！**
 
 **Note**: This is completely optional and not required to use the project. Every contribution, whether financial or through sharing/contributing, is deeply appreciated.
 
