@@ -1,0 +1,38 @@
+# Simulation files
+*.vvp
+*.vcd
+*.fsdb
+*.vpd
+
+# Synthesis files
+*.ys
+*.blif
+*.json
+*.dot
+*.png
+*.svg
+
+# Object directories
+obj_dir/
+build/
+synth/
+
+# Temporary files
+*.tmp
+*.log
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.old
